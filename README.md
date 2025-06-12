@@ -100,8 +100,8 @@ I try to be funny all the time—my jokes don't always land but hey, who said en
 ---
 
 ### **Random Geeky Interests 🤓:**  
-🔸 Exploring Generative AI Frameworks (think GPT, Stable Diffusion, etc.)  
-🔸 Training my personal chatbot on quirky knowledge bases.  
+🔸 Exploring Generative AI Frameworks (Agentic AI, LLMOps)  
+🔸 Training my personal chatbot (that's me) on quirky knowledge bases.  
 🔸 Connecting AI concepts to solve real-world healthcare challenges.  
 
 ---
