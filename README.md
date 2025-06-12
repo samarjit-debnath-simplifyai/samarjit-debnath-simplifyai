@@ -56,6 +56,7 @@ I try to be funny all the time—my jokes don't always land but hey, who said en
 
 #### Visual Flow Chart:  
 
+```sql
 +----------------------+
 |   Start Problem      |
 |     Analysis         |
@@ -95,7 +96,7 @@ I try to be funny all the time—my jokes don't always land but hey, who said en
 +----------------------+
 | Iterate & Improve    |
 +----------------------+ 
-
+```
 ---
 
 ### **Random Geeky Interests 🤓:**  
